@@ -12,10 +12,10 @@ The purpose of this project will be to test a handful of ASOS' website features 
 
 ## What's Being Tested
 ### Outline
-We have proposed that we test 2-3 high risk features on the ASOS website.  The homepage, login and another feature to be decided depending on time constraints.
+We have proposed that we practice these new skills on the ToolsQA website, similar to what we have done with ruby is class.  The login feature will be mainly tested.
 
 ### Schedule
-We will be taking 2 days out of the Abbey Road project to get setup and rolling.  We are working together on the same project but testing different features.  This project will be our homework over the next two weeks.
+We will be taking 3 days out of the Abbey Road project to get setup and rolling.  We are working together on the same repository.  This project will be a preliminary before starting a bigger project.
 
 ### Action Plan
 * Learn how to set up a Maven project
